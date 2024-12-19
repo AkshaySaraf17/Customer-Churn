@@ -4,7 +4,7 @@ This repository contains Jupyter Notebook files for predicting customer churn us
 
 Project Structure
 
-1. Customer Churn.ipynb**
+1. Customer Churn.ipynb
    - Purpose: Explores and preprocesses the dataset while evaluating multiple machine learning models, such as:
      - Naive Bayes
      - K-Nearest Neighbors (KNN)
@@ -25,7 +25,7 @@ Project Structure
      - Visualizing decision trees and feature importance.
 
 Dataset
-The analysis uses the [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).
+The analysis uses the Telco Customer Churn Dataset
 
 Requirements
 The notebooks require the following Python libraries:
@@ -60,8 +60,4 @@ Results
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-- The dataset is sourced from Kaggle: [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).
-- Special thanks to the open-source libraries that made this analysis possible.
 
